@@ -1,3 +1,3 @@
 # html-playground
 Practising
-lol
+gedit (to open from term)
